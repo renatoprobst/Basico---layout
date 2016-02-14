@@ -1,0 +1,61 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:stretchColumns="1"
+    tools:context=".MainActivity">
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="TextTextTextTextText" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="Text 1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:text="aw353aw5v3wav 1" />
+
+    </TableRow>
+
+</TableLayout>
